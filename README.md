@@ -4,7 +4,6 @@ Collection of work examples of Data Visualization using Python
 Providing a basic introduction to Data Visualization for personal, work, or academic use, for free use.
 
 Implementing Methods and Libraries such as:
-- How to use Datasets for Python Visualization
 - Plotting with Matplotlib
 - Creating Line Plots
 - Creating Area Plots
